@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo16 -N"C:\Users\windows 10\Desktop\pic projeler\Multichannel_trig\Embed_Software\TRIGS.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\windows 10\Desktop\pic projeler\Multichannel_trig\Embed_Software\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "TRIGS.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_Conversions.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	TRIGS.c
+warning: 44	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	TRIGS.c
+diagnostics: 256	123	Compiled Successfully	TRIGS.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 55 (16%)  Free RAM (bytes): 297 (84%)	Used RAM (bytes): 55 (16%)  Free RAM (bytes): 297 (84%)
+hint: 0	1144	Used ROM (program words): 1391 (17%)  Free ROM (program words): 6801 (83%)	Used ROM (program words): 1391 (17%)  Free ROM (program words): 6801 (83%)
+diagnostics: 0	125	Project Linked Successfully	TRIGS.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'TRIGS.mcppi' completed: 312 ms	 
+diagnostics: 0	103	Finished successfully: 17 Ara 2023, 15:45:56	TRIGS.mcppi

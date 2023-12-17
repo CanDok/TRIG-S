@@ -1,0 +1,21 @@
+main
+	__CC2DW
+		____DoICP
+	UART1_Init
+	codetxt_to_ramtxt
+		____DoICP
+	UART1_Write_Text
+		UART1_Write
+	UART1_Write
+	UART1_Data_Ready
+	UART1_Read_Text
+		UART1_Data_Ready
+		UART1_Read
+	VDelay_ms
+		Mul_32x32_U
+	atoi
+		isdigit
+		Mul_16X16_U
+	IntToStr
+		WordToStr
+			Div_16X16_U
