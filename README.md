@@ -1,2 +1,2 @@
 # TRIG-S
-Multichannel software controlled trigger generator for scientific devices.
+EPICS compatible software controlled multichannel trigger generator for scientific devices.
